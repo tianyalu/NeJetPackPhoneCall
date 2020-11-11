@@ -1,0 +1,3 @@
+include ':jetpack_app'
+include ':app'
+rootProject.name = "NeJetPackPhoneCall"

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:drawable="@drawable/appwidget_image_background_bottom" android:state_pressed="true"></item>
+
+    <item android:drawable="@drawable/icon_bottom_button_pressed2"></item>
+    
+</selector>
