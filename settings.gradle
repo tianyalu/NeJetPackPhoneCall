@@ -1,3 +1,4 @@
+include ':jetpack_app_kotlin'
 include ':jetpack_app'
 include ':app'
 rootProject.name = "NeJetPackPhoneCall"
